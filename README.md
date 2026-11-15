@@ -19,7 +19,7 @@ I design, build and deploy production software across FinTech, e-commerce and en
 - Full-stack development with a security-first mindset: RBAC, JWT, TOTP 2FA, CSRF protection, HMAC-signed webhooks, idempotent payment processing
 - Payment integrations (Paystack — cards & Mobile Money), WhatsApp Cloud API, SMS/SMTP messaging
 - Relational database design, schema modelling and complex SQL across MySQL and PostgreSQL
-- Currently completing a BSc (Hons) Computer Science at Arden University (2023–2026)
+- BSc (Hons) Computer Science at Arden University
 - Also lead a team of 30+ as a Restaurant Manager, balancing engineering delivery with people and operations leadership
 
 ## Tech Stack
